@@ -17,24 +17,153 @@
 ![https://www.linkedin.com/in/monicafidalgo/](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 
 ### 💻  Technologies
-<img align="left" alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-<img align="left" alt="vue" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" />
-<img align="left" alt="javascript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-<img align="left" alt="typescript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-<img align="left" alt="css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-<img align="left" alt="html" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-<img align="left" alt="bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
-<img align="left" alt="tailwind" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+<p align="left" dir="auto">
+   <a href="https://reactjs.org/" rel="nofollow">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
+      alt="react"
+      width="40"
+      height="40"
+      style="max-width: 100%"
+    />
+  </a>
+   <a href="https://vuejs.org/" rel="nofollow">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg"
+      alt="vuejs"
+      width="40"
+      height="40"
+      style="max-width: 100%"
+    />
+  </a>
+  <a href="https://getbootstrap.com" rel="nofollow">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
+      alt="bootstrap"
+      width="40"
+      height="40"
+      style="max-width: 100%"
+    />
+  </a>
+  <a href="https://www.w3schools.com/css/" rel="nofollow">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
+      alt="css3"
+      width="40"
+      height="40"
+      style="max-width: 100%"
+    />
+  </a>
+  <a href="https://tailwindcss.com/" rel="nofollow">
+    <img
+      src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg"
+      alt="express"
+      width="40"
+      height="40"
+      style="max-width: 100%"
+    />
+  </a>
+  <a href="https://www.w3.org/html/" rel="nofollow">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
+      alt="html5"
+      width="40"
+      height="40"
+      style="max-width: 100%"
+    />
+  </a>
+  <a
+    href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
+    rel="nofollow"
+  >
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
+      alt="javascript"
+      width="40"
+      height="40"
+      style="max-width: 100%"
+    />
+  </a>
+  <a href="https://www.mongodb.com/" rel="nofollow">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
+      alt="mongodb"
+      width="40"
+      height="40"
+      style="max-width: 100%"
+    />
+  </a>
+  <a href="https://nodejs.org" rel="nofollow">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
+      alt="nodejs"
+      width="40"
+      height="40"
+      style="max-width: 100%"
+    />
+  </a>
+  <a href="https://redux.js.org" rel="nofollow">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg"
+      alt="redux"
+      width="40"
+      height="40"
+      style="max-width: 100%"
+    />
+  </a>
+  <a href="https://sass-lang.com" rel="nofollow">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg"
+      alt="sass"
+      width="40"
+      height="40"
+      style="max-width: 100%"
+    />
+  </a>
+  <a href="https://www.typescriptlang.org/" rel="nofollow">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
+      alt="typescript"
+      width="40"
+      height="40"
+      style="max-width: 100%"
+    />
+  </a>
 
-<br/><br/>
+</p>
+
 
 ### 🔨  Tools:
-<img align="left" alt="figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-<img align="left" alt="visualstudiocode" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
-<img align="left" alt="visualstudio" src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" />
-<img align="left" alt="git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<p align="left" dir="auto">
+    <a href="https://code.visualstudio.com/" rel="nofollow">
+    <img
+      src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg"
+      alt="vscode"
+      width="40"
+      height="40"
+      style="max-width: 100%"
+    />
+  </a>
+  <a href="https://git-scm.com/" rel="nofollow">
+    <img
+      src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain-wordmark.svg"
+      alt="git"
+      width="40"
+      height="40"
+      style="max-width: 100%"
+    />
+  </a>
+    <a href="https://www.figma.com/" rel="nofollow">
+    <img
+      src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg"
+      alt="figma"
+      width="40"
+      height="40"
+      style="max-width: 100%"
+    />
+  </a>
+ </p>
 
-<br/><br/>
 
 ### ✌️ Collaborations 
 I'm a teacher and a mentor at As Raparigas do Código👩‍💻
