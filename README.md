@@ -12,13 +12,12 @@
 - 🦊  I'm crazy about foxes
 - 🛹  Fun fact: and I have a longboard but I'm too afraid of breaking a bone while skating
 
-<br/>
 
 ### 🔎   Find me at:
 ![https://dev.to/monicafidalgo](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)
 ![https://www.linkedin.com/in/monicafidalgo/](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 <br/>
-<br/>
+
 
 ### 💻  Technologies
 <p align="left" dir="auto">
@@ -134,7 +133,6 @@
     />
   </a>
 </p>
-<br/>
 
 ### 🔨  Tools:
 <p align="left" dir="auto">
@@ -166,14 +164,13 @@
     />
   </a>
  </p>
-<br/>
 
 ### ✌️ Collaborations 
 <p>I'm a teacher and a mentor at As Raparigas do Código👩‍💻
 It is a great initiative, which goal is to teach code, for free, to women in Portugal, where is still a big gap of women in the tech industry!</p>
-<br/>
 
-### Most Used Languages
+
+### 📙 Most Used Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MonicaFidalgo&layout=compact&theme=radical)
 
 
