@@ -14,8 +14,24 @@
 
 
 ### 🔎   Find me at:
-![https://dev.to/monicafidalgo](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)
-![https://www.linkedin.com/in/monicafidalgo/](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+  <a href="https://dev.to/monicafidalgo" rel="nofollow">
+    <img
+      src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"
+      alt="dev.to"
+      width="98"
+      height="28"
+      style="max-width: 100%"
+    />
+  </a>
+    <a href="https://www.linkedin.com/in/monicafidalgo/" rel="nofollow">
+    <img
+      src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
+      alt="linkedin"
+      width="111"
+      height="28"
+      style="max-width: 100%"
+    />
+  </a>
 <br/>
 
 
