@@ -5,7 +5,7 @@
 ![catgif](https://user-images.githubusercontent.com/41929489/144757407-64bd4005-dbba-490f-a600-bb02ee2ab5ac.gif)
 
 ## 🦄 I'm a Frontend developer, a mentor and a teacher
-- 👩🏽‍💻  I started as a developer in 2017
+- 👩🏽‍💻  I started as a developer in 2018
 - 🐬  My background is in marine biology
 - 🐶  I'm volunteer at a local dog shelter for 10 years and couting
 - 🌱  Big fan of outdoor activities
