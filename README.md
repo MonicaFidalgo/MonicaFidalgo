@@ -182,7 +182,7 @@
  </p>
 
 ### ✌️ Collaborations 
-<p>I'm a teacher and a mentor at As Raparigas do Código👩‍💻
+<p>I'm a teacher and a mentor at  <a href="https://github.com/As-Raparigas-do-Codigo" rel="nofollow">As Raparigas do Código 👩‍💻</a>
 It is a great initiative, which goal is to teach code, for free, to women in Portugal, where is still a big gap of women in the tech industry!</p>
 
 
