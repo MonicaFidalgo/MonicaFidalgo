@@ -189,4 +189,7 @@ It is a great initiative, which goal is to teach code, for free, to women in Por
 ### 📙 Most Used Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MonicaFidalgo&layout=compact&theme=radical)
 
+### 💖 Support me - Buy me a coffee ☕ 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/R6R8D4H75)
+
 
