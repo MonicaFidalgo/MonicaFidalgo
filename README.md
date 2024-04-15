@@ -73,15 +73,7 @@
       style="max-width: 100%"
     />
   </a>
-  <a href="https://tailwindcss.com/" rel="nofollow">
-    <img
-      src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg"
-      alt="express"
-      width="40"
-      height="40"
-      style="max-width: 100%"
-    />
-  </a>
+
   <a href="https://www.w3.org/html/" rel="nofollow">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
@@ -182,8 +174,8 @@
  </p>
 
 ### ✌️ Collaborations 
-<p>I'm a teacher and a mentor at  <a href="https://github.com/As-Raparigas-do-Codigo" rel="nofollow">As Raparigas do Código 👩‍💻</a>
-It is a great initiative, which goal is to teach code, for free, to women in Portugal, where is still a big gap of women in the tech industry!</p>
+<p>I'm a teacher and a mentor at  <a href="https://www.girl-code.co.uk/" rel="nofollow">Girl Code 👩‍💻</a>
+It is a great initiative, with a mission to close the gender tech gap in technology!</p>
 
 
 ### 📙 Most Used Languages
