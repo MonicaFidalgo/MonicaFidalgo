@@ -36,10 +36,11 @@
 
 I'm a **teacher, mentor, speaker, event organiser & content creator** in women-in-tech communities:
 
-- 🦊  [**Frontend Foxes**](https://frontendfoxes.community/)
+- 🦊  [**Frontend Foxes**](https://github.com/FrontEndFoxes)
 - 👩‍💻  [**Girlcode**](https://www.girl-code.co.uk/)
 - 🇵🇹  [**As Raparigas do Código**](https://www.asraparigasdocodigo.pt/)
-- 💫  [**Geek Girls**](https://geekgirlsmeetup.com/)
+- 💫  [**Geek Girls**](https://geekgirlsportugal.pt/)
+- 👸  [**Frontend Queens**](https://frontendqueens.com/)
 
 All of them on a mission to close the gender gap in tech. Come join us!
 
